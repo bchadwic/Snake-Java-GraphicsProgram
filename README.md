@@ -15,12 +15,12 @@
 <h3>Gameplay Images:</h3>
 Initial Game Start Menu / Instructions
 
-![alt text](https://github.com/bchadwic/snake/blob/main/snakeGameplayInstructions.PNG?raw=true)
+![alt text](https://github.com/bchadwic/snake/blob/main/gameplay-images/snakeGameplayInstructions.PNG?raw=true)
 
 Mid-Gameplay medium difficulty (yellow)
 
-![alt text](https://github.com/bchadwic/snake/blob/main/snakeGameplayLevelYellow.PNG?raw=true)
+![alt text](https://github.com/bchadwic/snake/blob/main/gameplay-images/snakeGameplayLevelYellow.PNG?raw=true)
 
 Game over hard difficulty (red)
 
-![alt text](https://github.com/bchadwic/snake/blob/main/snakeGameplayLevelRed.PNG?raw=true)
+![alt text](https://github.com/bchadwic/snake/blob/main/gameplay-images/snakeGameplayLevelRed.PNG?raw=true)
