@@ -1,6 +1,6 @@
 <h1>snake</h1>
 <h2>Freetime project: 2D game of snake using acm's GraphicsProgram</h2>
-<p>I started this project to test my ability to make a graphical game.</p>
+<p>I started this project to test my game making ability using basic Graphic objects like GRect and GLabel.</p>
 <ul>The game is finished but there are a few things I would like to add such as:
 <li>Make the game more object-oriented and less procedural</li>
 <li>Use a different data-structure than an ArrayList, in hopes that it might make the movement faster</li>
